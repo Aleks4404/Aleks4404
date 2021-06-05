@@ -1,6 +1,6 @@
 [![Header](https://github.com/Aleks4404/Aleks4404/blob/main/assets/outputFfree.gif)]
 
-## I'm a beginner QA Engineer  Automation JAVA
+## I'm a beginner Java QA Automation Engineer
 
 ### Languages and Tools:
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java&logoColor=47C5FB)
