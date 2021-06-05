@@ -24,6 +24,3 @@
 ### Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleks4404)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://u.netology.ngcdn.ru/backend/uploads/page_assets/images/file/461/Jira_Software-blue.svg" class="shared-landing-ui-kit-components-Icon-icon-module__root--DZhgA shared-landing-ui-kit-components-Resume-resume-module__technologyIcon--2zDa4" title="">
-
-
