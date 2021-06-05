@@ -13,9 +13,11 @@
 ### Follow Me:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Aleksey_QA_Engineer_Automation)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/aleksey_junior_qa_engineer)
-
+ 
+###GitHub stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleks4404&show_icons=true&theme=radical)
 
+###Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleks4404)](https://github.com/anuraghazra/github-readme-stats)
 
 
