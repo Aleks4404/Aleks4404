@@ -6,9 +6,9 @@
 [![Header](https://github.com/Aleks4404/Aleks4404/blob/main/assets/neo.png)](https://netology.ru/)
 
 ### Certificate
-[![Java для тестировщиков]](assets/certificate.pdf)
-[![Введение в тестирование]](assets/certificate1.pdf)
-[![Git — система контроля версий]](assets/certificate2.pdf)
+* ["Java для тестировщиков"](assets/certificate.pdf)
+* ["Введение в тестирование"](assets/certificate1.pdf)
+* ["Git — система контроля версий"](assets/certificate2.pdf)
 
 ### Languages and Tools:
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java&logoColor=47C5FB)
