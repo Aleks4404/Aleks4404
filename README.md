@@ -5,6 +5,11 @@
 ## I'm undergoing training
 [![Header](https://github.com/Aleks4404/Aleks4404/blob/main/assets/neo.png)](https://netology.ru/)
 
+### Certificate
+[![Header](Java для тестировщиков)](pic/certificate.pdf)
+[![Header](Введение в тестирование)](pic/certificate(1).pdf)
+[![Header](Git — система контроля версий)](pic/certificate(2).pdf)
+
 ### Languages and Tools:
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java&logoColor=47C5FB)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=097CDB)
