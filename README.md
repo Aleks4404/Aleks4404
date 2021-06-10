@@ -15,8 +15,9 @@
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=097CDB)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html&logoColor=F8C52C)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css&logoColor=F88C00)
-![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=00648B)
-![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=mysql&logoColor=00648B)
+![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mlsql&logoColor=00648B)
+![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=00648B)
+![Intellij IDEA](https://img.shields.io/badge/-Intellij_IDEA-090909?style=for-the-badge&logo=intellij_idea&logoColor=00648B)
 
 ### Follow Me:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Aleksey_QA_Engineer_Automation)
