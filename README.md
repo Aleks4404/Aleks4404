@@ -9,6 +9,7 @@
 * ["Java для тестировщиков"](assets/certificate.pdf)
 * ["Введение в тестирование"](assets/certificate1.pdf)
 * ["Git — система контроля версий"](assets/certificate2.pdf)
+* ["Автоматизированное тестирование"](assets/certificate3.pdf)
 
 ### Languages and Tools:
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java&logoColor=47C5FB)
