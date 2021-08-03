@@ -6,10 +6,13 @@
 [![Header](https://github.com/Aleks4404/Aleks4404/blob/main/assets/neo.png)](https://netology.ru/)
 
 ### Certificate
-* ["Java для тестировщиков"](assets/certificate.pdf)
-* ["Введение в тестирование"](assets/certificate1.pdf)
-* ["Git — система контроля версий"](assets/certificate2.pdf)
-* ["Автоматизированное тестирование"](assets/certificate3.pdf)
+> * ["Java для тестировщиков"](assets/certificate.pdf)
+> * ["Основы HTML и CSS"](assets/certificate6.pdf)
+> * ["Python-разработка для начинающих"](assets/certificate7.pdf)
+> * ["Введение в тестирование"](assets/certificate1.pdf)
+> * ["Git — система контроля версий"](assets/certificate2.pdf)
+> * ["Автоматизированное тестирование"](assets/certificate3.pdf)
+> * ["Управление по Agile: Scrum, Kanban, Lean"](assets/certificate5.pdf)
 
 ### Languages and Tools:
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java&logoColor=47C5FB)
