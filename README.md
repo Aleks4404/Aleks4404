@@ -6,6 +6,8 @@
 [![Header](https://github.com/Aleks4404/Aleks4404/blob/main/assets/neo.png)](https://netology.ru/)
 
 ### Certificate
+> * ["Тестировщик ПО"](assets/Diplom1.pdf)
+> * ["Дипломный блок профессии Тестировщик"](assets/Diplom.pdf)
 > * ["Java для тестировщиков"](assets/certificate.pdf)
 > * ["Основы HTML и CSS"](assets/certificate6.pdf)
 > * ["Python-разработка для начинающих"](assets/certificate7.pdf)
