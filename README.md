@@ -2,7 +2,7 @@
 
 ## I'm a beginner Java QA Automation Engineer
 
-## I'm undergoing training
+## I have completed my training
 [![Header](https://github.com/Aleks4404/Aleks4404/blob/main/assets/neo.png)](https://netology.ru/)
 
 ### Certificate
