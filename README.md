@@ -1,4 +1,4 @@
-[![Header](https://github.com/Aleks4404/Aleks4404/blob/main/assets/outputFfree.gif)]
+![Header](https://github.com/Aleks4404/Aleks4404/blob/main/assets/outputFfree.gif)
 
 ## I'm a beginner Java QA Automation Engineer
 
