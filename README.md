@@ -1,9 +1,10 @@
-![Header](https://github.com/Aleks4404/Aleks4404/blob/main/assets/outputFfree.gif)
-
 ## I'm a beginner Java QA Automation Engineer
 
 ## I have completed my training
 [![Header](https://github.com/Aleks4404/Aleks4404/blob/main/assets/neo.png)](https://netology.ru/)
+
+## [Final diploma project](https://github.com/Aleks4404/DiplomaProjectOfTheProfessionTester.git)
+
 
 ### Certificate
 #### ["Тестировщик ПО"](assets/Diplom1.pdf)
